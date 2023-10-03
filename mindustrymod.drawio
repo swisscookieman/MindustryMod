@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="XoPVgOCDLIRF7x5-Eu5f" name="Page-1">
-        <mxGraphModel dx="854" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="526" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -148,16 +148,16 @@
                 <mxCell id="56" value="Steam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="600" y="490" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="Gold Sheet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="57" value="Gold Sheet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="530" y="640" width="60" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="New Block&lt;br&gt;Mechanism Crafter" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+                <mxCell id="59" value="New Block&lt;br&gt;Mechanism Crafter" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="1" vertex="1">
                     <mxGeometry x="470" y="700" width="100" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="Diamond Gem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="60" value="Diamond Gem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="600" y="680" width="60" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" value="" style="endArrow=classic;html=1;entryX=0.443;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="59">
+                <mxCell id="63" value="" style="endArrow=classic;html=1;entryX=0.443;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="59" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="630" y="710" as="sourcePoint"/>
                         <mxPoint x="540" y="630" as="targetPoint"/>
