@@ -1,1 +1,7 @@
 where to get textures: https://github.com/hortiSquash/hortiDefinition
+
+
+Gold color scheme: 
+Lighest: f2c649
+Middle: e5b80b
+Darkest: d4af37

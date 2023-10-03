@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: 6ème Crusher
+description: Crushes Sixièmme Students into Biomass
+hasPower: true
+hasLiquids: false
+size: 2
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      sixiemme/1
+    ]
+  }
+}
+requirements: [
+  copper/1
+]
+category: crafting
+research: sixiemme_gen
+idleSound: respawning 
+idleSoundVolume: 0.5
+outputItem: biomass/5

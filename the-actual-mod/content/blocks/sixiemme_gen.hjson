@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: 6ème Classroom
+description: Outputs 6ème students for you to turn into Biomass
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 600
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+}
+requirements: [
+  copper/1
+]
+category: crafting
+research: duo
+idleSound: respawning 
+idleSoundVolume: 0.5
+outputItem: sixiemme/1
