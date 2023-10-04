@@ -1,23 +1,25 @@
 type: GenericCrafter
-name: 6ème Crusher
-description: Crushes Sixièmme Students into Biomass
+name: Titanium Press
+description: Turns Titanium into Titanium Sheets
 hasPower: true
 hasLiquids: false
-size: 2
+size: 3
 hasItems: true
 craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.7
+  power: 20
   items: {
     items: [
-      sixiemme/1
+      Titanium/1
     ]
   }
 }
 requirements: [
-  copper/1
+  Titanium/50
+  Copper/100
+  Metaglass/10
 ]
 category: crafting
-research: sixiemme_gen
-outputItem: biomass/5
+research: duo
+outputItem: titanium_sheet/5
