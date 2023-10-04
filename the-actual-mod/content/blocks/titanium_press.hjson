@@ -11,14 +11,14 @@ consumes: {
   power: 20
   items: {
     items: [
-      Titanium/1
+      titanium/1
     ]
   }
 }
 requirements: [
-  Titanium/50
-  Copper/100
-  Metaglass/10
+  titanium/50
+  copper/100
+  metaglass/10
 ]
 category: crafting
 research: duo
