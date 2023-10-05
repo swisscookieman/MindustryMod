@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Titanium Framer
+description: Creates Titanium Frames using Reinforced rods
+hasPower: true
+hasLiquids: false
+size: 2
+hasItems: true
+craftTime: 90
+updateEffect: smeltsmoke
+consumes: {
+  power: 400
+  items: {
+    items: [
+      reinforced_rod/12
+      lead/8
+    ]
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: reinforced_frame/1

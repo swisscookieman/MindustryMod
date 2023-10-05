@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Titanium Plater
+description: Plates Reinforced Frames
+hasPower: true
+hasLiquids: false
+size: 2
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 300
+  items: {
+    items: [
+      reinforced_frame/1
+      titanium_plate/5
+    ]
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: reinforced_plated_frame/1
