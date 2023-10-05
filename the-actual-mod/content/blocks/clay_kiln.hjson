@@ -3,7 +3,7 @@ name: Clay Kiln
 description: Creates ingot molds from clay
 hasPower: true
 hasLiquids: true
-size: 3
+size: 2
 hasItems: true
 craftTime: 45
 updateEffect: smeltsmoke
