@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Sand Washer
+description: Using great quantities of water, washes sand to get small pieces of gold
+hasPower: true
+hasLiquids: false
+size: 2
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 50
+  items: {
+    items: [
+      sand/1
+    ]
+  }
+  liquid: {
+    liquid : water
+    amount : 10
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: ingot_mold/1
