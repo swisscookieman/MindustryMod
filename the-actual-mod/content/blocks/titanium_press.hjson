@@ -1,11 +1,11 @@
 type: GenericCrafter
 name: Titanium Press
-description: Turns Titanium into Titanium Sheets
+description: Turns Titanium Ingots into Titanium Sheets
 hasPower: true
 hasLiquids: false
 size: 3
 hasItems: true
-craftTime: 60
+craftTime: 30
 updateEffect: smeltsmoke
 consumes: {
   power: 20
