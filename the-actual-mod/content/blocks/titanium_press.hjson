@@ -11,7 +11,7 @@ consumes: {
   power: 20
   items: {
     items: [
-      titanium/1
+      titanium_ingot/1
     ]
   }
 }
