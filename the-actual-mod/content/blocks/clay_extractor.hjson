@@ -10,7 +10,3 @@ requirements: [
     lead/40
 ]
 category: liquid
-drawer: [
-    type: drawRegion
-    suffix: base
-]
