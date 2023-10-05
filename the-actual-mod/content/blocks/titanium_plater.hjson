@@ -12,7 +12,7 @@ consumes: {
   items: {
     items: [
       reinforced_frame/1
-      titanium_plate/5
+      titanium_sheet/5
     ]
   }
 }
