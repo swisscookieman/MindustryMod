@@ -1,22 +1,22 @@
 type: GenericCrafter
-name: Titanium Foundry
-description: Melts Titanium Powder into Molten Titanium 
+name: Titanium Ingot Molder
+description: Molds molten Titanium into Titanium ingots
 hasPower: true
 hasLiquids: true
-size: 3
+size: 2
 hasItems: true
-craftTime: 45
+craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
-  power: 200
+  power: 20
   items: {
     items: [
-      titanium_powder/1
+      ingot_mold/1
     ]
   }
   liquid: {
-    liquid : slag
-    amount : 5
+    liquid: molten_titanium
+    amount : 3
   }
 }
 requirements: [
@@ -26,7 +26,4 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputLiquid: {
-  liquid: molten_titanium
-  amount: 3
-}
+outputItem: titanium_ingot/1

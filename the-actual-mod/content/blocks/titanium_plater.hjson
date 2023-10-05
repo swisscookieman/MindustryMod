@@ -1,17 +1,18 @@
 type: GenericCrafter
-name: Titanium Press
-description: Turns Titanium Ingots into Titanium Sheets
+name: Titanium Plater
+description: Plates Reinforced Frames
 hasPower: true
 hasLiquids: false
-size: 3
+size: 2
 hasItems: true
-craftTime: 30
+craftTime: 60
 updateEffect: smeltsmoke
 consumes: {
-  power: 20
+  power: 300
   items: {
     items: [
-      titanium_ingot/1
+      reinforced_frame/1
+      titanium_plate/5
     ]
   }
 }
@@ -22,4 +23,4 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputItem: titanium_sheet/2
+outputItem: reinforced_plated_frame/1

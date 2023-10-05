@@ -3,7 +3,7 @@ name: Titanium Crusher
 description: Crushes raw titanium into titanium powder
 hasPower: true
 hasLiquids: false
-size: 2
+size: 1
 hasItems: true
 craftTime: 45
 updateEffect: smeltsmoke
