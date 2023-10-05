@@ -14,4 +14,3 @@ drawer: [
     type: drawRegion
     suffix: base
 ]
-outputItem: titanium/1
