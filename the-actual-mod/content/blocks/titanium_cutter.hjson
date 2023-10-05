@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Titanium Cutter
-description: Cuts raw Titanium into Titanium Rods
+description: Reinforces Titanium Ingots with Lead
 hasPower: true
 hasLiquids: false
 size: 2
@@ -11,7 +11,7 @@ consumes: {
   power: 20
   items: {
     items: [
-      titanium/1
+      titanium_ingot/1
       lead/1
     ]
   }
