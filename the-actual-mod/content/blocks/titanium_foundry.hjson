@@ -1,9 +1,9 @@
 type: GenericCrafter
-name: Titanium Crushers
-description: Crushes raw titanium into titanium powder
+name: Titanium Foundry
+description: Melts Titanium Powder into Molten Titanium 
 hasPower: true
 hasLiquids: true
-size: 2
+size: 3
 hasItems: true
 craftTime: 45
 updateEffect: smeltsmoke
@@ -24,5 +24,5 @@ category: crafting
 research: duo
 outputLiquid: {
   liquid: molten_titanium
-  amount: 7
+  amount: 3
 }

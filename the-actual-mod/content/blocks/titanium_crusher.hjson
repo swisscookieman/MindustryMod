@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: Titanium Crushers
+name: Titanium Crusher
 description: Crushes raw titanium into titanium powder
 hasPower: true
 hasLiquids: false
