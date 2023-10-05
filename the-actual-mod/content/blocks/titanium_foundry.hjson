@@ -22,4 +22,7 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputItem: molten_titanium1
+outputLiquid: {
+  liquid: molten_titanium
+  amount: 7
+}

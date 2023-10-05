@@ -12,7 +12,7 @@ consumes: {
   items: {
     items: [
       titanium/1
-      blast_compound/1
+      blast-compound/1
     ]
   }
 }
