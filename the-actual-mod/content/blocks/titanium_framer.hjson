@@ -3,7 +3,7 @@ name: Titanium Framer
 description: Creates Titanium Frames using Reinforced rods
 hasPower: true
 hasLiquids: false
-size: 2
+size: 5
 hasItems: true
 craftTime: 90
 updateEffect: smeltsmoke
