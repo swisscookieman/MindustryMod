@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Titanium Cutter
-description: Reinforces Titanium Ingots with Lead
+description: Cuts Titanium Ingots and Lead into sturdy Titanium Rods
 hasPower: true
 hasLiquids: false
 size: 2

@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Titanium Plater
-description: Plates Reinforced Frames
+description: Plates Reinforced Frames with titanium sheets
 hasPower: true
 hasLiquids: false
 size: 3
