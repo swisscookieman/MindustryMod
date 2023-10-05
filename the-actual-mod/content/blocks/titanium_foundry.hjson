@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: Titanium Crushers
+description: Crushes raw titanium into titanium powder
+hasPower: true
+hasLiquids: true
+size: 2
+hasItems: true
+craftTime: 45
+updateEffect: smeltsmoke
+consumes: {
+  power: 200
+  items: {
+    items: [
+      titanium_powder/1
+    ]
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: molten_titanium1
