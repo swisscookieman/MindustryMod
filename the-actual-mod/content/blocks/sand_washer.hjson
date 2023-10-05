@@ -26,4 +26,4 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputItem: ingot_mold/1
+outputItem: gold_nugget
