@@ -15,9 +15,8 @@ consumes: {
     ]
   }
   liquid: {
-    liquid: [
-      molten_titanium/3
-    ]
+    liquid: molten_titanium
+    amount : 3
   }
 }
 requirements: [
