@@ -9,4 +9,5 @@ requirements: [
     titanium/10
     lead/40
 ]
-category: liquid
+category: items
+outputItem: copper/1
