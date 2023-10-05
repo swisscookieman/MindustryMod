@@ -26,4 +26,4 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputItem: titanium_powder/1
+outputItem: titanium_ingot/1
