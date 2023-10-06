@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: Clay Extractor
+description: Recuperates clay depots from Water
+hasPower: false
+hasLiquids: true
+size: 2
+hasItems: true
+craftTime: 45
+updateEffect: smeltsmoke
+consumes: {
+  liquid: {
+    liquid : water
+    amount : 1
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: clay/1
