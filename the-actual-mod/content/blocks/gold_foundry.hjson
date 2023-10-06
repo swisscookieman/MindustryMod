@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: Gold Foundry
+description: Melts Gold nuggets into Molten Gold
+hasPower: true
+hasLiquids: true
+size: 3
+hasItems: true
+craftTime: 45
+updateEffect: smeltsmoke
+consumes: {
+  power: 200
+  items: {
+    items: [
+      gold_nugget/1
+    ]
+  }
+  liquid: {
+    liquid : slag
+    amount : 5
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputLiquid: {
+  liquid: molten_gold
+  amount: 1
+}
