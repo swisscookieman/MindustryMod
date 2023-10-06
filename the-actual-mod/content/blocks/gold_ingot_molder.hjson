@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Gold Ingot Molder
+description: Molds molten Gold into Gold ingots
+hasPower: true
+hasLiquids: true
+size: 2
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 20
+  items: {
+    items: [
+      ingot_mold/1
+    ]
+  }
+  liquid: {
+    liquid: molten_gold
+    amount : 3
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: gold_ingot/1

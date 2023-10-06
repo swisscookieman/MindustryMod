@@ -11,7 +11,7 @@ consumes: {
   power: 50
   items: {
     items: [
-      sand/1
+      sand/3
     ]
   }
   liquid: {
@@ -26,4 +26,11 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputItem: gold_nugget/1
+outputItem: {
+  items: {
+    items: [
+      clean_sand/3
+      gold_nugget/1
+    ]
+  }
+}

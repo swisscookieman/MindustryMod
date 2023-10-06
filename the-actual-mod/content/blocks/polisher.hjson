@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Polisher
+description: Polishes gold ingots with clean sand
+hasPower: true
+hasLiquids: true
+size: 2
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 20
+  items: {
+    items: [
+      gold_ingot/1
+      clean_sand/3
+    ]
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: gold_ingot/1
