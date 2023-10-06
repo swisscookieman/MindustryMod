@@ -26,11 +26,7 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputItems: {
-  items: {
-    items: [
-      clean_sand/3
-      gold_nugget/1
-    ]
-  }
-}
+outputItems: [
+  clean_sand/3
+  gold_nugget/1
+]
