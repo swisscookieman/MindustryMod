@@ -1,5 +1,5 @@
 type: GenericCrafter
-name: Clay Extractor
+name: Clay Separator
 description: Recuperates clay depots from Water
 hasPower: false
 hasLiquids: true
