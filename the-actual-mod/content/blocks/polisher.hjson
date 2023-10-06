@@ -23,4 +23,4 @@ requirements: [
 ]
 category: crafting
 research: duo
-outputItem: gold_ingot/1
+outputItem: polished_gold_ingot/1
