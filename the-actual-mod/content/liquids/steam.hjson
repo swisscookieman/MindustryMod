@@ -1,0 +1,8 @@
+name: Steam
+description: Vaporized Water
+gas: true
+flammability: 0.2
+coolant: false
+vaporEffect: steam
+gasColor: 939FE1
+color: 939FE1

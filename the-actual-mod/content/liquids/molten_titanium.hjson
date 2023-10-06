@@ -1,5 +1,6 @@
 name: Molten Titanium
 description: Imagine Titanium, but not solid at all.
+coolant: false
 temperature: 0.9
 viscosity: 0.8
 effect: melting
