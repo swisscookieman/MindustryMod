@@ -4,5 +4,5 @@ gas: true
 flammability: 0.2
 coolant: false
 vaporEffect: steam
-gasColor: 939FE1
-color: 939FE1
+gasColor: E3E3E3
+color: E3E3E3
