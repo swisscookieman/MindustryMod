@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: Gold Press
+description: Turns Polished Gold ingots into Polished Gold Sheets
+hasPower: true
+hasLiquids: false
+size: 3
+hasItems: true
+craftTime: 30
+updateEffect: placeBlock
+consumes: {
+  power: 20
+  items: {
+    items: [
+      polished_gold_ingot/1
+    ]
+  }
+}
+requirements: [
+  titanium/50
+  copper/100
+  metaglass/10
+]
+category: crafting
+research: duo
+outputItem: polished_gold_sheet/2
