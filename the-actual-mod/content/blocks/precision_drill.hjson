@@ -1,0 +1,22 @@
+name: Precision Drill
+description: A very precise drill. Mines faster and better than any other 
+type: Drill
+size: 3
+tier: 2
+drillTime: 250
+consumes: {
+  power: 3
+  liquid: {
+    liquid: molten-silver
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  polished_gold_sheet/80
+  silicon/40
+  graphite/20
+  reinforced_rod/20
+]
+category: production
+research: laser-drill
